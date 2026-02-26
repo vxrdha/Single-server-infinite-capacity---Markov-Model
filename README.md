@@ -14,6 +14,11 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 This is a queuing model in which the arrival is Marcovian and departure distribution is also Marcovian,number of server is one and size of the queue is also Marcovian,no.of server is one and size of the queue is infinite and service discipline is 1st come 1st serve(FCFS) and the calling source is also finite.
 
+## Procedure :
+<img width="481" height="242" alt="2" src="https://github.com/user-attachments/assets/2211d977-83d7-454c-b148-3743ade6e49d" />
+
+
+## Program :
 ```python
 # Getting Inputs
 ArrivalTime = int(input("Enter the mean inter arrival time of objects from feeder (in secs) : "))
